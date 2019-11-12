@@ -1,5 +1,5 @@
 # restoration-planting-regrowth-comparison
-Code used to generate results, figures and tables for DOI: 10.1111/rec.13077
+Code used to generate results, figures and tables for DOI: 10.1111/rec.13077 [![DOI](https://zenodo.org/badge/221116714.svg)](https://zenodo.org/badge/latestdoi/221116714)
 
 This project uses **forest inventory data** and **plant functional trait data**, processing them in **R scripts** to generate results and figures.
 
