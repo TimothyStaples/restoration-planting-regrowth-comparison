@@ -1,0 +1,7 @@
+"","Estimate","Std. Error","t value"
+"(Intercept)",6.06,1.258,4.818
+"log.age",2.967,0.897,3.306
+"I(log.age^2)",-0.404,0.156,-2.591
+"plot.typePlanting",2.381,7.338,0.325
+"log.age:plot.typePlanting",-2.105,7.236,-0.291
+"I(log.age^2):plot.typePlanting",0.394,1.767,0.223
